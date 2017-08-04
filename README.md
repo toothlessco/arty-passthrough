@@ -1,5 +1,7 @@
 # Passthrough confiugration for the Digilent Arty FPGA development board
 
+This project exposes the UART pins of the FT2232H on I/O pins 26 and 27 of the Digilent Arty development board.
+
 To compile the design in Vivado
 
 1. Create a new project, select XC7A35TICSG324-1L as the FPGA
